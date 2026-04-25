@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "190291174306",
+    "project_id": "gyliza-beauty",
+    "storage_bucket": "gyliza-beauty.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190291174306:android:47deac0438cf1ce0c608fb",
+        "android_client_info": {
+          "package_name": "com.gylizabeauty.mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMh_v2eOQ0AMc1Cfdcw_nmcMPIeYl0eMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

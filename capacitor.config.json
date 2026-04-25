@@ -1,0 +1,13 @@
+{
+  "appId": "com.gylizabeauty.mobile",
+  "appName": "Gyliza Beauty",
+  "webDir": "www",
+  "server": {
+    "url": "https://gyliza.de/mobile"
+  },
+  "plugins": {
+    "PushNotifications": {
+      "presentationOptions": ["sound", "alert"]
+    }
+  }
+}
