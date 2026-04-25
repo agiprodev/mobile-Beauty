@@ -19,6 +19,9 @@ workflows:
 
       - name: Sync Capacitor iOS
         script: |
+          if [ ! -d ios/App ]; then
+            npx cap add ios
+          fi
           npx cap sync ios
 
       - name: Build iOS app
